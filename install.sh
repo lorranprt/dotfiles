@@ -55,7 +55,6 @@ echo "🚀 Starting dotfiles installation..."
 link_config
 link_home_files
 copy_wallpapers
-# Uncomment the next line if you want to install required packages
 # install_packages
 
 echo "✅ Dotfiles installation completed!"
